@@ -1,3 +1,7 @@
+# Forked from https://github.com/LittleSimpleWallpaperChanger/lswc
+
+
+
 # lswc
 Little simple wallpaper changer
 .. or in short lswc, is a standalone wallpaper changer designed to run in the user environment to change the wallpaper in a time period somewhere between 1 and 5 minutes, decided by a randomizer. You can change the program to fit to you needs or leave as is to enjoy the pictures you like on your desktop. These can be the pictures of your family, the artwork you created or anything that fits on a .jpg. It was initially designed on and for use on Ubuntu 18.04 (which is a trademark of Canonical Inc) but now it can be used on all distros running Gnome or gnome alike, like Lubuntu, Mate and Mint.
